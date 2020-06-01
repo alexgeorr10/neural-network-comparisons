@@ -1,2 +1,2 @@
 # Neural Network comparisons
-Implementing a multilayer perceptron and comparing it with the one found in the popular libraries
+In the jupyter notebook, we implement a multilayer perceptron from scratch. We then compare it with the one found in some popular Machine Learing libraries on two popular datasesets.
