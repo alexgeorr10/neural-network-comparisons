@@ -1,2 +1,2 @@
-# neural-network-comparisons
-Implementing a multilayer perceptron neural network and comparing it with the one found in the sklearn library
+# Neural Network comparisons
+Implementing a multilayer perceptron and comparing it with the one found in the popular libraries
